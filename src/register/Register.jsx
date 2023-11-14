@@ -45,7 +45,7 @@ function Register() {
                 });
             }else{
                 Swal.fire({
-                    title: 'Error!',
+                    title: 'Success',
                     text: 'Registrasi berhasil',
                     icon: 'success',
                     timer: 2000,
