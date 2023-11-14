@@ -283,7 +283,7 @@ function Home() {
                     </Button>
                 </Grid>
                 <Grid item xs={12} sm={12} md={6} lg={3}>
-                    <Button fullWidth onClick={handleOpenFilter} size='medium' variant="contained" color="primary">
+                    <Button fullWidth onClick={handleOpenFilter} size='medium' variant="contained" color="warning">
                         Filter
                     </Button>
                 </Grid>
